@@ -1,0 +1,40 @@
+.signle-sample {
+  border-top: 1px solid #444;
+  padding: 0;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  height: 48px;
+}
+
+.signle-sample:hover {
+  background-color: #555;
+}
+
+.signle-sample__button {
+  display: block;
+  appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  color: #ccc;
+  padding: 8px 8px;
+}
+
+.signle-sample__button:hover {
+  color: #eee;
+}
+
+.signle-sample__name {
+  height: 100%;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+}
+
+

@@ -1,0 +1,158 @@
+.step {
+  display: inline-block;
+  position: relative;
+  width: 64px;
+  height: 64px;
+}
+
+.step--cursor {
+  background-color: #fcc;
+}
+
+.drum-rack {
+  display: block;
+  padding: 8px;
+  grid-gap: 0;
+  justify-items: start;
+  align-items: start;
+  justify-content: center;
+  align-content: start;
+}
+
+.drum-rack__title {
+  grid-column: 1 / -1;
+  width: 100%;
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: #999;
+  font-size: 13px;
+}
+
+.drum-rack__remove {
+  appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  border: none;
+  background-color: transparent;
+  color: #999;
+  cursor: pointer;
+}
+
+.drum-rack__remove:hover {
+  color: #eee;
+}
+
+.drum-rack__preloader-container {
+  width: 236px;
+  height: 236px;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+
+.step__cover {
+  width: 64px;
+  height: 64px;
+  background-color: #aaa;
+  position: absolute;
+  top: 0;
+  border: 2px solid #222;
+  border-radius: 10%;
+  cursor: pointer;
+}
+
+.step__cover--cursor {
+  background-color: #494c52;
+}
+
+.step__checkbox {
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.step__label {
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+input[type='checkbox']:checked ~ div {
+  background: #cbff8b;
+  background-color: #cbff8b;
+}
+
+input[type='checkbox']:checked ~ div.step__cover--cursor {
+  opacity: 0.3;
+}
+
+.drum-rack__controls {
+  display: flex;
+}
+
+.pitch-slider, .volume-slider {
+  flex-direction: row;
+  align-items: left;
+  text-align: left;
+  padding: 4px 0px 4px;
+  margin: 5px;
+  flex: 0 1 auto;
+}
+
+.pitch-slider__title, .volume-slider__title {
+  padding: 0 0 5px 32px;
+  font-size: 24px;
+  font-family: 'Electrolize', sans-serif;
+  width: 190px;
+}
+
+.pitch-slider__slider, .volume-slider__slider {
+  width: 128px;
+}
+
+.pitch-slider__title {
+  padding: 0 0 5px 32px;
+}
+
+.volume-slider__title {
+  padding: 0 0 5px 15px;
+}
+
+@media screen and (max-width: 640px) , screen and (max-width: 768px) {
+  .step, .step__cover, .step__label, .step__checkbox {
+    width: 24px;
+    height: 24px;
+  }
+}
+@media screen and (max-width: 375px), screen and (max-width: 414px) {
+  .step, .step__cover, .step__label, .step__checkbox {
+    width: 20px;
+    height: 20px;
+  }
+  .volume-slider, .pitch-slider {
+    width: 160px;
+  }
+  .drum-rack {
+    width: 375px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .step, .step__cover, .step__label, .step__checkbox {
+    width: 16px;
+    height: 16px;
+  }
+  .volume-slider, .pitch-slider {
+    width: 140px;
+  }
+  .drum-rack {
+    width: 320px;
+  }
+}
+

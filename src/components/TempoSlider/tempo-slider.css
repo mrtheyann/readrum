@@ -1,0 +1,18 @@
+.tempo-slider {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+  padding: 28px 24px 4px;
+}
+
+.tempo-slider__title {
+  padding: 0 0 5px 32px;
+  font-size: 27px;
+  font-family: 'Electrolize', sans-serif;
+  width: 190px;
+}
+
+.tempo-slider__slider {
+  width: 128px;
+}

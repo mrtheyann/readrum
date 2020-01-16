@@ -1,0 +1,190 @@
+{
+  "samples": [
+    {
+      "name": "808-clap",
+      "displayName": "808 Clap",
+      "kit": "808",
+      "url": "/samples/808/808-clap.wav"
+    },
+    {
+      "name": "808-kick",
+      "displayName": "808 Kick",
+      "kit": "808",
+      "url": "/samples/808/808-kick.wav"
+    },
+    {
+      "name": "808-closed-hihat",
+      "displayName": "808 Hihat closed",
+      "kit": "808",
+      "url": "/samples/808/808-hihat.wav"
+    },
+    {
+      "name": "808-open-hihat",
+      "displayName": "808 Hihat open",
+      "kit": "808",
+      "url": "/samples/808/808-open-hihat.wav"
+    },
+    {
+      "name": "808-bass",
+      "displayName": "808 Bass",
+      "kit": "808",
+      "url": "/samples/808/808-bass.wav"
+    },
+    {
+      "name": "808-snare",
+      "displayName": "808 Snare",
+      "kit": "808",
+      "url": "/samples/808/808-snare.wav"
+    },
+    {
+      "name": "808-tom",
+      "displayName": "808 Tom",
+      "kit": "808",
+      "url": "/samples/808/808-tom.wav"
+    },
+    {
+      "name": "808-clave",
+      "displayName": "808 Clave",
+      "kit": "808",
+      "url": "/samples/808/808-clave.wav"
+    },
+    {
+      "name": "808-cowbell",
+      "displayName": "808 Cowbell",
+      "kit": "808",
+      "url": "/samples/808/808-cowbell.wav"
+    },
+    {
+      "name": "808-maracas",
+      "displayName": "808 Maracas",
+      "kit": "808",
+      "url": "/samples/808/808-maracas.wav"
+    },
+    {
+      "name": "808-rimshot",
+      "displayName": "808 Rimshot",
+      "kit": "808",
+      "url": "/samples/808/808-rim.wav"
+    },
+    {
+      "name": "future-garage-chord-01",
+      "kit": "Future garage kit",
+      "url": "/samples/future-garage-kit/future-garage-chord01.wav",
+      "displayName": "Future Garage Chord 01"
+    },
+    {
+      "name": "future-garage-chord-02",
+      "kit": "Future garage kit",
+      "url": "/samples/future-garage-kit/future-garage-chord02.wav",
+      "displayName": "Future Garage Chord 02"
+    },
+    {
+      "name": "future-garage-chord-03",
+      "kit": "Future garage kit",
+      "url": "/samples/future-garage-kit/future-garage-chord03.wav",
+      "displayName": "Future Garage Chord 03"
+    },
+    {
+      "name": "future-garage-hat-01",
+      "kit": "Future garage kit",
+      "url": "/samples/future-garage-kit/future-garage-hat01.wav",
+      "displayName": "Future Garage Hat 01"
+    },
+    {
+      "name": "future-garage-hat-02",
+      "kit": "Future garage kit",
+      "url": "/samples/future-garage-kit/future-garage-hat02.wav",
+      "displayName": "Future Garage Hat 02"
+    },
+    {
+      "name": "future-garage-kick",
+      "kit": "Future garage kit",
+      "url": "/samples/future-garage-kit/future-garage-kick.wav",
+      "displayName": "Future Garage Kick"
+    },
+    {
+      "name": "future-garage-perc",
+      "kit": "Future garage kit",
+      "url": "/samples/future-garage-kit/future-garage-perc.wav",
+      "displayName": "Future Garage Perc"
+    },
+    {
+      "name": "future-garage-snare",
+      "kit": "Future garage kit",
+      "url": "/samples/future-garage-kit/future-garage-snare.wav",
+      "displayName": "Future Garage Snare"
+    },
+    {
+      "name": "lofi-clap",
+      "kit": "Lo-Fi kit",
+      "url": "/samples/lofi-kit/lofi-clap.wav",
+      "displayName": "Lo-Fi clap"
+    },   
+    {
+      "name": "lofi-cymbal",
+      "kit": "Lo-Fi kit",
+      "url": "/samples/lofi-kit/lofi-cymbal.wav",
+      "displayName": "Lo-Fi cymbal"
+    },
+    {
+      "name": "lofi-hi-hat-01",
+      "kit": "Lo-Fi kit",
+      "url": "/samples/lofi-kit/lofi-hi-hat01.wav",
+      "displayName": "Lo-Fi Hi-hat 01"
+    },
+    {
+      "name": "lofi-hi-hat-02",
+      "kit": "Lo-Fi kit",
+      "url": "/samples/lofi-kit/lofi-hi-hat02.wav",
+      "displayName": "Lo-Fi Hi-hat 02"
+    },
+    {
+      "name": "lofi-kick",
+      "kit": "Lo-Fi kit",
+      "url": "/samples/lofi-kit/lofi-kick.wav",
+      "displayName": "Lo-Fi Kick"
+    },
+    {
+      "name": "lofi-open-hat",
+      "kit": "Lo-Fi kit",
+      "url": "/samples/lofi-kit/open-hat.wav",
+      "displayName": "Lo-Fi open-hat"
+    },
+    {
+      "name": "lofi-perc-01",
+      "kit": "Lo-Fi kit",
+      "url": "/samples/lofi-kit/lofi-perc01.wav",
+      "displayName": "Lo-Fi Perc 01"
+    },
+    {
+      "name": "lofi-perc-02",
+      "kit": "Lo-Fi kit",
+      "url": "/samples/lofi-kit/lofi-perc02.wav",
+      "displayName": "Lo-Fi Perc 02"
+    },
+    {
+      "name": "lofi-perc-03",
+      "kit": "Lo-Fi kit",
+      "url": "/samples/lofi-kit/lofi-perc03.wav",
+      "displayName": "Lo-Fi Perc 03"
+    },
+    {
+      "name": "lofi-rim",
+      "kit": "Lo-Fi kit",
+      "url": "/samples/lofi-kit/lofi-rim.wav",
+      "displayName": "Lo-Fi Rim"
+    },
+    {
+      "name": "lofi-snare-01",
+      "kit": "Lo-Fi kit",
+      "url": "/samples/lofi-kit/lofi-snare01.wav",
+      "displayName": "Lo-Fi Snare 01"
+    },
+    {
+      "name": "lofi-snare-02",
+      "kit": "Lo-Fi kit",
+      "url": "/samples/lofi-kit/lofi-snare02.wav",
+      "displayName": "Lo-Fi Snare 02"
+    }
+  ]
+}
