@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/readrum/static/css/main.88091997.chunk.css",
+    "main.js": "/readrum/static/js/main.94d734be.chunk.js",
+    "main.js.map": "/readrum/static/js/main.94d734be.chunk.js.map",
+    "runtime-main.js": "/readrum/static/js/runtime-main.a2588bd6.js",
+    "runtime-main.js.map": "/readrum/static/js/runtime-main.a2588bd6.js.map",
+    "static/js/2.63d52cea.chunk.js": "/readrum/static/js/2.63d52cea.chunk.js",
+    "static/js/2.63d52cea.chunk.js.map": "/readrum/static/js/2.63d52cea.chunk.js.map",
+    "index.html": "/readrum/index.html",
+    "precache-manifest.92d5457fd8b6e77451969a4c03064488.js": "/readrum/precache-manifest.92d5457fd8b6e77451969a4c03064488.js",
+    "service-worker.js": "/readrum/service-worker.js",
+    "static/css/main.88091997.chunk.css.map": "/readrum/static/css/main.88091997.chunk.css.map",
+    "static/js/2.63d52cea.chunk.js.LICENSE": "/readrum/static/js/2.63d52cea.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2588bd6.js",
+    "static/js/2.63d52cea.chunk.js",
+    "static/css/main.88091997.chunk.css",
+    "static/js/main.94d734be.chunk.js"
+  ]
+}
