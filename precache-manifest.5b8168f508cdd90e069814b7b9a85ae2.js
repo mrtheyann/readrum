@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "94ea610c26efe5bc2f734b0f8fca5670",
+    "revision": "61c3bce80bb2a590b2437d6422213dcb",
     "url": "/readrum/index.html"
   },
   {
-    "revision": "ee877e3fd6b130500069",
+    "revision": "dd77b20f3b7d939680e2",
     "url": "/readrum/static/css/main.88091997.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/readrum/static/js/2.63d52cea.chunk.js.LICENSE"
   },
   {
-    "revision": "ee877e3fd6b130500069",
-    "url": "/readrum/static/js/main.94d734be.chunk.js"
+    "revision": "dd77b20f3b7d939680e2",
+    "url": "/readrum/static/js/main.2ef6f95a.chunk.js"
   },
   {
     "revision": "59b019136e607d07a9b9",
