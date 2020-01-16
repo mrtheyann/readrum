@@ -1,6 +1,6 @@
-import originalList from '../config/samplesList.json';
+import samplesJson from '../config/samplesList.json';
 
-const samplesList = () => originalList.samples.map(sample => ({
+const samplesList = () => samplesJson.samples.map(sample => ({
   ...sample,
   url: `${process.env.PUBLIC_URL}${sample.url}`,
 }));
