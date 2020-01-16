@@ -2,6 +2,11 @@
 
 ## React step sequencer
 
+16th step sequencer in your browser.
+Available here: http://mrtheyann.github.io/readrum 
+
+![Demo](./public/demo.gif)
+
 ### Install
 
 ```
